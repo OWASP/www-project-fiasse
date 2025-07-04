@@ -30,4 +30,4 @@ The model has various uses beyond being standard terms to clearly define intenti
 
 This framework does not intend to go deep into requirements or assurance activities. There are standards and frameworks that generally guide these activities. There are existing high-quality sources for security requirements and security feature guidance. There are also an abundance of sources for assurance guidance. FIASSE gives priority to software-engineering-level strategies and structured interactions with security teams in the context of requirements and assurance for long-term success.
 
-**For more information** on the Securable Software Engineering Model (SSEM) and its usage, please refer to the [FIASSE RFC](https://github.com/Xcaciv/securable_software_engineering/blob/main/docs/FIASSE-RFC.md#3-the-securable-software-engineering-model-ssem).
+**For more information** on the Securable Software Engineering Model (SSEM) and its usage, please refer to the [FIASSE RFC](https://github.com/Xcaciv/securable_software_engineering/blob/main/docs/FIASSE-RFC.md#3-the-securable-software-engineering-model-ssem).  Tell us what you think!
