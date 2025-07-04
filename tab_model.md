@@ -22,7 +22,7 @@ For more information on the Securable Software Engineering Model (SSEM), please 
 
 ## SSEM Usage
 
-FIASSE is structured in a three pillar approach. Those pillars are:
+FIASSE is structured in a three-pillar approach. Those pillars are:
 
 - Security Requirements
 - Securable Code
@@ -30,4 +30,4 @@ FIASSE is structured in a three pillar approach. Those pillars are:
 
 The model has various uses beyond being standard terms to clearly define intentional attributes in software engineering. They also form the basis for a set of behavioral principles that can govern developers and code assistants. They can also be used to ground security requirements making them more relevant and actionable. It can also give a clear context to assurance activities for more definitive impact on the overall application security posture.
 
-This framework does not intend to go deep into requirements or assurance activities. There are standards and frameworks that generally guide these activities. There are existing high quality sources for security requirements and security feature guidance. There are also an abundance of sources for assurance guidance. FIASSE gives priority to software engineering level strategies and structured interactions with security teams in the context of requirements and assurance for long term success.
+This framework does not intend to go deep into requirements or assurance activities. There are standards and frameworks that generally guide these activities. There are existing high-quality sources for security requirements and security feature guidance. There are also an abundance of sources for assurance guidance. FIASSE gives priority to software-engineering-level strategies and structured interactions with security teams in the context of requirements and assurance for long-term success.
