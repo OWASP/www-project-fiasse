@@ -14,11 +14,9 @@ To get started with contributing to any OWASP project, please follow these steps
 
 4. Fork the repository and clone it to your local machine.
 
-5. Install any necessary dependencies and set up your development environment.
+5. Make your changes and review them locally.
 
-6. Make your changes and test them locally to ensure they work as expected.
-
-7. Submit a pull request with your changes.
+6. Submit a pull request with your changes.
 
 ## Pull Request Guidelines
 
