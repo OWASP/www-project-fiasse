@@ -2,7 +2,7 @@
 title: contributing
 layout:  null
 tab: true
-order: 1
+order: 3
 tags: fiasse, ssem, feedback
 ---
 
@@ -30,7 +30,7 @@ To get started with contributing to any OWASP project, please follow these steps
 
 Before submitting a pull request, please make sure:
 
-1. Your changes are consistent with the project's goals and objectives: this isn't just another security assurance framework.
+1. Your changes are consistent with the project's goals and objectives: this isn't an assurance framework.
 
 2. Your changes are well-documented and follow the project's standards and styles.
 
