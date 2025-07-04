@@ -9,14 +9,15 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-The Framework for Integrating Application Security into Software Engineering (FIASSE) project aims to address the persistent challenges in application security (AppSec) by fostering a developer-centric paradigm. Current issues include slow progress in enhancing software security, friction between AppSec and Development teams, and the inefficacy of simply "shifting left" without foundational changes. The rise of AI-driven code generation further necessitates a robust framework to ensure new code is inherently securable.
+The Framework for Integrating Application Security into Software Engineering (FIASSE) is a vendor-neutral approach to embedding security directly into the software engineering discipline. FIASSE addresses persistent challenges—such as slow progress in AppSec, friction between security and development, and the limitations of “shift left” — by focusing on a developer-centric, collaborative model. With the rise of AI-generated code, it is more important than ever to develop a framework that ensures that new software is inherently securable. One that can govern developers and code assistants. Best practices alone are not enough; developers must be allowed the integrity of the timebox and security must be given the 'paved roads' it needs to be effective.
 
-The FIASSE project will develop and promote the Securable Software Engineering Model (SSEM), designed to highlight security principles in the software engineering discipline. The project will develop a common design language, based on established software engineering terms. It will focus on inherent attributes of code and software architecture (Maintainability, Trustworthiness, Reliability) that contribute to security. This approach empowers developers to build securable software as a natural part of their discipline, without requiring them to become penetration testing experts or think like attackers. The project will produce specifications, guidance, and educational materials to facilitate the adoption of the framework.
+FIASSE introduces the Securable Software Engineering Model (SSEM), which uses established engineering terms to define the core attributes of securable software: Maintainability, Trustworthiness, and Reliability. This model enables developers to build software that is easier to analyze, modify, and test for security, without requiring them to adopt a adversarial mindset. By aligning security with the realities of software development, FIASSE helps teams create systems that are resilient and adaptable, supporting both business objectives and secure outcomes.
 
 ### Road Map
 
 - [x] Establishment of project governance and contribution guidelines.
 - [ ] Formal publication of FIASSE and SSEM specifications, including their core attributes and integration strategies.
+- [ ] Use feedback to refine the framework and its components.
 - [ ] Development of an SSEM Primer/Introduction Guide to help software engineers understand the model and its application.
 - [ ] For Application Security practitioners, create a guide on how to use and teach FIASSE.
 - [ ] Collection of SSEM adoption use cases or patterns to illustrate practical applications and benefits.
