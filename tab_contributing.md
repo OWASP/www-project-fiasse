@@ -1,8 +1,16 @@
-# Contributing Guidelines
+---
+title: contributing
+layout:  null
+tab: true
+order: 1
+tags: fiasse, ssem, feedback
+---
+
+## Contributing Guidelines
 
 Thank you for your interest in contributing to an OWASP project. We welcome all contributions and appreciate your efforts to improve our projects.
 
-## Getting Started
+### Getting Started
 
 To get started with contributing to any OWASP project, please follow these steps:
 
@@ -18,19 +26,15 @@ To get started with contributing to any OWASP project, please follow these steps
 
 6. Submit a pull request with your changes.
 
-## Pull Request Guidelines
+### Pull Request Guidelines
 
 Before submitting a pull request, please make sure:
 
-1. Your changes are consistent with the project's goals and objectives.
+1. Your changes are consistent with the project's goals and objectives: this isn't just another security assurance framework.
 
-2. Your changes are well-documented and follow the project's coding standards.
+2. Your changes are well-documented and follow the project's standards and styles.
 
-3. Your changes do not introduce new bugs or break existing functionality.
-
-4. Your changes are accompanied by tests, if applicable.
-
-5. Your pull request includes a clear and concise description of the changes you have made.
+3. Your pull request includes a clear and concise description of the changes you have made.
 
 ## Code of Conduct
 
