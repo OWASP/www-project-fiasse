@@ -3,7 +3,7 @@
 * <span class="fas fa-leaf" ></span> Incubator Project
 * <span class="fas fa-book" ></span> Documentation
 * <span class="fas fa-code-branch" ></span> Version 0.1.0
-* <span class="fas fa-toolbox" ></span Builder
+* <span class="fas fa-toolbox" ></span> Builder
 
 ### Links
 
