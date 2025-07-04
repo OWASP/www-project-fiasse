@@ -2,7 +2,7 @@
 title: contributing
 layout:  null
 tab: true
-order: 3
+order: 5
 tags: fiasse, ssem, feedback
 ---
 
