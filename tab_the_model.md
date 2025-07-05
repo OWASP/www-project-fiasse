@@ -1,5 +1,5 @@
 ---
-title: the_model
+title: the model
 layout:  null
 tab: true
 order: 3
