@@ -1,9 +1,9 @@
 ---
-title: contributing
+title: Contributing
 layout:  null
 tab: true
-order: 5
-tags: fiasse, ssem, feedback
+order: 6
+tags: fiasse
 ---
 
 ## Contributing Guidelines

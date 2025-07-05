@@ -1,9 +1,9 @@
 ---
-title: the_model
+title: Model
 layout:  null
 tab: true
-order: 3
-tags: fiasse, ssem, feedback
+order: 4
+tags: fiasse
 ---
 
 ## The Model
