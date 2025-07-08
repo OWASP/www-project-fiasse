@@ -5,7 +5,7 @@ title: OWASP FIASSE
 tags: developer ssem fiasse resilience maintainability software-engineering trustworthiness reliability
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: security that is relenlessly practical to software engineering
 
 ---
 
