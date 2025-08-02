@@ -7,7 +7,7 @@
 
 ### Links
 
-* [Project Website](https://www.fiasse.org)
+* [Project Website](https://fiasse.org)
 * [Read the RFC](https://github.com/Xcaciv/securable_software_engineering/blob/main/docs/FIASSE-RFC.md)
 
 ### Code Repository
