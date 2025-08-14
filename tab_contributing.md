@@ -6,6 +6,15 @@ order: 6
 tags: fiasse
 ---
 
+## Feedback
+
+Please use the [Github Discussions](https://github.com/Xcaciv/securable_software_engineering/discussions) for feedback:
+
+- What do like?
+- What don't you like?
+- How can we make FIASSE/SSEM easier to use?
+- How could FIASSE/SSEM be improved?
+
 ## Contributing Guidelines
 
 Thank you for your interest in contributing to an OWASP project. We welcome all contributions and appreciate your efforts to improve our projects.
