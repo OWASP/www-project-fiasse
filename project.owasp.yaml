@@ -1,0 +1,29 @@
+audience:
+  - builder
+leaders:
+  - name: Alton Crossley
+    email: alton.crossley@owasp.org
+    github: Xcaciv
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP FIASSE
+pitch: security that is relentlessly practical to software engineering
+repositories:
+  - name: www-project-fiasse
+    url: https://github.com/OWASP/www-project-fiasse
+    description: OWASP Foundation web repository
+  - name: securable_software_engineering
+    url: https://github.com/Xcaciv/securable_software_engineering
+    description: A Framework for Integrating Application Security into Software Engineering (FIASSE) using the Securable Software Engineering Model (SSEM)
+tags:
+  - developer
+  - ssem
+  - fiasse
+  - resilience
+  - maintainability
+  - software-engineering
+  - trustworthiness
+  - reliability
+type: documentation
+website: https://owasp.org/www-project-fiasse
