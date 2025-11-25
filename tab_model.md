@@ -8,9 +8,18 @@ tags: fiasse
 
 ## The Model
 
-The Securable Software Engineering Model (SSEM) is centered on providing a design language that uses established software engineering terms to define the core attributes that make software "securable", which include:
+SSEM identifies all the fundamental attributes that are the building blocks of securable software in an evolving landscape (FIASSE RFC Section 2.1). These attributes are not merely abstract concepts but represent tangible characteristics that directly contribute to its overall security and resilience.
 
-- **Maintainability**: The ease with which software can be modified to correct defects, improve performance, or adapt to a changed environment. This includes the ability to **analyze**, **modify**, and **test** software for security vulnerabilities without requiring developers to adopt an adversarial mindset.
+- **Maintainability**: 
+Maintainability is the "degree of effectiveness and efficiency with which a product or system can be modified by the intended maintainers" (ISO/IEC 25010:2011).
+
+  - Analyzability
+  The ability to quickly assess the impact of changes, diagnose issues, and identify what needs to be modified.
+  - Modifiability
+  The ability to safely and quickly modify a system without causing defects or reducing quality or securability.
+  - Testability
+  The ability to verify that a system meets its requirements and is free of defects.
+
 - **Trustworthiness**: The degree to which software can be trusted to behave as expected, particularly in the face of potential security threats. This includes the ability to ensure that software meets its security requirements and behaves predictably under various conditions.
 - **Reliability**: The ability of software to perform its intended functions under specified conditions for a specified period of time. This includes resilience to failures and the ability to recover from errors without compromising security.
 

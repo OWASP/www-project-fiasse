@@ -28,16 +28,16 @@ The core FIASSE fundamentals are:
 - The Securable Principle: No static state of "secure"
 - First Principle alignment: Resiliently add computing value while reducing the probability of material impact
 - Business alignment: in the context of development, security aligns with the business through development's priorities
-- The Transparency Principle: transparency
+- Participation over assessment: security actively participates in key development processes
 
 ### Scope
 
-FIASSE does not intend to replace existing security assurance advice like OWASP SAMM, OWASP ASVS, etc. Instead, it aims to integrate security more deeply into the Software Engineering discipline, providing a structured approach to securing code through engineering practices. This will reduce findings and turnaround time, thereby decreasing the probability of material impact.
+FIASSE does not intend to replace existing security assurance advice like OWASP SAMM, OWASP ASVS, etc. Instead, it aims to complement other OWASP projects by integrating security more deeply into the Software Engineering discipline. It can do this by providing a structured approach to securing code through engineering practices. This will reduce findings and turnaround time, thereby decreasing the probability of material impact.
 
 ## Road Map
 
 - [x] Establishment of project governance and contribution guidelines.
-- [ ] Use feedback to refine the framework and its components.
+- [x] Use feedback to refine the framework and its components.
 - [ ] Formal publication of FIASSE and SSEM specifications, including their core attributes and integration strategies.
 - [ ] Development of an SSEM Primer/Introduction Guide to help software engineers understand the model and its application.
 - [ ] Create a guide for Application Security practitioners on using and teaching FIASSE with relevant security requirements and code examples.
