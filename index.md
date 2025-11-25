@@ -23,7 +23,7 @@ FIASSE introduces the Securable Software Engineering Model (SSEM, pronounced /si
 
 While this framework attempts to give structure to the relationship between security and software engineering, the primary audience is Software Engineers. Therefore, the fundamentals are framed from that perspective to set expectations for development.
 
-The core FIASSE fundamentals are:
+The core FIASSE tenets are:
 
 - The Securable Principle: No static state of "secure"
 - First Principle alignment: Resiliently add computing value while reducing the probability of material impact
