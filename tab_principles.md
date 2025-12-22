@@ -9,7 +9,10 @@ tags: fiasse
 ## Core Principles
 
 - The Securable Principle:
-There is no static state of "secure". Unmaintainable code cannot be secure over time.
+The Securable Principle in FIASSE says that software is never in a final, fixed state of “secure”; instead, it must be built so it can be secured and kept secure over time. Security is treated as an ongoing property of the system’s design, code, and operations rather than a checkbox reached after tests or reviews.
+
+- The Derived Integrity Principle:
+The Derived Integrity Principle states that an application must not implicitly trust or adopt unmanaged external context, such as client-supplied data or other untrusted inputs, when making critical decisions. Instead, it should derive important facts (like identity, permissions, pricing, and state) from authoritative, controlled sources to preserve integrity and reduce the risk of security breaches.
 
 - Actionable Security Intelligence:
 Instead of forcing development to decode testing terminology, security should analyze results and collaborate with Software Engineering on systemic flaw reductions.
@@ -17,11 +20,8 @@ Instead of forcing development to decode testing terminology, security should an
 - The Transparency Principle:
 Transparency is about showing clear, contextualized visibility into how the system operates, makes decisions, and handles data. This includes clear intent in architecture reflected in the implementation.
 
-- The Flexibility Principle:
-Software engineers value flexibility in code, as it can facilitate feature implementation and bug fixing. Attackers, however, seek uncontrolled flexibility as a means to force the application to deviate from intended behavior. Trust boundaries require heightened control over data and process execution. This concept should be allowed to influence implementation best practices, such as strict input handling.
-
-- The Derived Integrity Principle:
-An application avoids implicitly adopting unmanaged context, such as data from the client, to preserve its integrity and prevent potential security breaches.
+- Canonical Input Handling
+The practice of converting all incoming data into a well-defined, validated form before it is used anywhere in the system. This supports the Securable and Derived Integrity principles by making sure that every decision is based on normalized, predictable input instead of raw, inconsistent, or attacker-shaped data.
 
 ## Core Values
 

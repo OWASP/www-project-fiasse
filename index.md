@@ -8,17 +8,11 @@ type: documentation
 pitch: a highly refined approach to productive securable software creation to complement assurance
 
 ---
-## The Securable Framework
+## "The Securable Framework"
 
-The Framework for Integrating Application Security into Software Engineering (FIASSE) is a vendor-neutral approach to embedding security directly into the software engineering discipline. FIASSE (pronounced /feiz/ like 'phases of the moon') is a light weight framework that adapts to your existing software development processes. FIASSE provides a model and principles to create truly securable software by focusing on core software qualities. This makes your security efforts more effective, sustainable, and integrated with the development team.
+The Framework for Integrating Application Security into Software Engineering (FIASSE) is a vendor-neutral approach to embedding security directly into the software engineering discipline. FIASSE (pronounced /feiz/ like 'phases of the moon') is a light weight framework that adapts to your existing software development processes. FIASSE provides a model and principles to create truly securable software by focusing on core software qualities and promoting fundamental Software Engineering capabilities. This makes your security efforts more effective, sustainable, and integrated with the development team.
 
-FIASSE addresses persistent challenges such as slow progress in AppSec, friction between security and development, and the limitations of “shift left”. It flips the common AppSec model from "shoveling left" or expecting developers to "think like us". Instead it reframes developments relationship with security in terms software engineers already understand and can execute on.
-
-With the rise of AI-generated code, which introduces new security challenges, it is more important than ever to have a framework that ensures that new software is inherently securable. We need a set of behavioral principles that can govern developers and code assistants. Security assurance alone is not enough.
-
-This framework identifies low friction strategies to integrate security participation into software engineering practices. It also gives development clear expectations for the involvement of the security team. This reduces the friction that can prevent security from participating in secure by design activities.
-
-FIASSE introduces the Securable Software Engineering Model (SSEM, pronounced /si:m/), focusing on how Maintainability, Trustworthiness, and Reliability contribute to security. This model enables developers to build software that stays resilient over time. It does not require them to have years of security experience or adopt an adversarial mindset. By aligning security with the realities of software development, FIASSE helps teams create systems that are resilient and adaptable, supporting both business objectives and security concerns.
+It reframes developments relationship with security in terms software engineers already understand and can execute on. This gives development clear expectations for the involvement of the security team, reducing the aggravation that comes from last-minute security demands.
 
 ## Fundamentals
 
@@ -26,14 +20,13 @@ While this framework attempts to give structure to the relationship between secu
 
 The core FIASSE tenets are:
 
-- The Securable Principle: No static state of "secure"
-- First Principle alignment: Resiliently add computing value while reducing the probability of material impact
-- Business alignment: in the context of development, security aligns with the business through development's priorities
-- Participation over assessment: security actively participates in key development processes
+- The Securable Principle: There is no static state of "secure". Software engineers need to understand what is needed to create securable code without the years of extra training and experience it would take to understand the security practice.
+- Business alignment: Security must align with development's reason for existing to engage with them. This means abandoning the "shovel-left" anti-pattern in favor of clearer communication and earlier collaboration.
+- Participation over assessment: Structured participation by the security team in the development process yields better results than security assessment alone, which tends to be late and expensive.
 
 ### Scope
 
-FIASSE does not intend to replace existing security assurance advice like OWASP SAMM, OWASP ASVS, etc. Instead, it aims to complement other OWASP projects by integrating security more deeply into the Software Engineering discipline. It can do this by providing a structured approach to securing code through engineering practices. This will reduce findings and turnaround time, thereby decreasing the probability of material impact.
+FIASSE does not intend to replace existing security assurance advice like OWASP PSCF, OWASP SAMM, OWASP ASVS, etc. Instead, it aims to complement other projects by providing a developer-centric framework. It does this by providing a structured approach to securing code through engineering practices.
 
 ## Road Map
 
