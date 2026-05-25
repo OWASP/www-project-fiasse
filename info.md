@@ -2,13 +2,14 @@
 
 * <span class="fas fa-leaf" ></span> Incubator Project
 * <span class="fas fa-book" ></span> Documentation
-* <span class="fas fa-code-branch" ></span> Version 0.1.0
+* <span class="fas fa-code-branch" ></span> Version v1.0.6
 * <span class="fas fa-toolbox" ></span> Builder
 
 ### Links
 
 * [Project Website](https://owaspfiasse.org)
-* [Read the Document](https://github.com/OWASP/FIASSE/blob/main/docs/securable_framework.md)
+* [Read latest release](https://github.com/OWASP/FIASSE/blob/v1.0.6/docs/securable_framework.md)
+* [Read the working Document](https://github.com/OWASP/FIASSE/blob/main/docs/securable_framework.md)
 
 ### Code Repository
 
