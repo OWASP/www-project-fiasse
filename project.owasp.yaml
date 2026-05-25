@@ -8,13 +8,13 @@ level: 2
 license:
   - CC-BY-SA-4.0
 name: OWASP FIASSE
-pitch: security that is relentlessly practical to software engineering
+pitch: development integrated security through engineering principles and models
 repositories:
   - name: www-project-fiasse
     url: https://github.com/OWASP/www-project-fiasse
     description: OWASP Foundation web repository
   - name: securable_software_engineering
-    url: https://github.com/Xcaciv/securable_software_engineering
+    url: https://github.com/OWASP/FIASSE
     description: A Framework for Integrating Application Security into Software Engineering (FIASSE) using the Securable Software Engineering Model (SSEM)
 tags:
   - developer
@@ -26,4 +26,4 @@ tags:
   - trustworthiness
   - reliability
 type: documentation
-website: https://owasp.org/www-project-fiasse
+website: https://owaspfiasse.org

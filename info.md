@@ -7,13 +7,15 @@
 
 ### Links
 
-* [Project Website](https://fiasse.org)
-* [Read the RFC](https://github.com/Xcaciv/securable_software_engineering/blob/main/docs/FIASSE-RFC.md)
+* [Project Website](https://owaspfiasse.org)
+* [Read the Document](https://github.com/OWASP/FIASSE/blob/main/docs/securable_framework.md)
 
 ### Code Repository
 
-* [repo](https://github.com/Xcaciv/securable_software_engineering)
+* [repo](https://github.com/OWASP/FIASSE)
 
 ### Change Log
 
-* [changes](#) (coming soon)
+* [v1.0.6 - Control-Catalog Fallacy](https://github.com/OWASP/FIASSE/releases/tag/v1.0.6)
+* [v1.0.4 - Add Observability](https://github.com/OWASP/FIASSE/releases/tag/v1.0.4)
+* [First Public Release](https://github.com/OWASP/FIASSE/releases/tag/v1.0.3)
