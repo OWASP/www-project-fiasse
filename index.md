@@ -10,6 +10,8 @@ pitch: a highly refined approach to productive securable software creation to co
 ---
 ## "The Securable Framework"
 
+Stop asking "What is the fix?" and start asking "Why do we keep needing a fix?"
+
 Use an attribute model with principles and processes to guide agentic software development to secure outcomes. The Framework for Integrating Application Security into Software Engineering (FIASSE) is a vendor-neutral approach to embedding security directly into the software engineering discipline. FIASSE (pronounced /feiz/ like 'phases of the moon') is a light weight framework that adapts to your existing software development processes. FIASSE provides a model and principles to create truly securable software by focusing on core software qualities and promoting fundamental Software Engineering capabilities. This makes your security efforts more effective, sustainable, and integrated with the development team.
 
 It reframes developments relationship with security in terms software engineers already understand and can execute on. This gives development clear expectations for the involvement of the security team, reducing the aggravation that comes from last-minute security demands. These approaches work regardless if the code is agentic generated or manually written.
