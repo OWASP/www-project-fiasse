@@ -20,7 +20,6 @@ The practice of converting all incoming data into a validated and well-defined s
 - The Transparency Principle:
 How the system works should be perceptible so engineers and stakeholders can see what it is doing, why it is doing it, and how. In software engineering terms, it pushes teams to design systems whose behavior is visible..
 
-
 ## Software Engineering Principles
 
 - Boundary *Control Principle:
@@ -44,7 +43,7 @@ Rather than focusing on security controls, checklists, or gates, the emphasis is
 - Participation over Assessment:
 Structured participation by the security team in the development process yields better results than security assessment alone, which tends to be late and expensive. This means security participation in architecture, design and requirements in whatever form that takes. This makes assessment part of an iterative and empirical process.
 
-It is ok to give development the answers to the security test because they have to implement it functionally to pass. In software engineering terms this is called requirements.
+ > It is ok to give development the answers to the security test because they have to implement it functionally to pass. In software engineering terms this is called requirements.
 
 - First Principle Alignment:
 While the Security discipline works to 'reduce the probability of material impact', the Software Engineering discipline works to 'resiliently add computing value'. FIASSE provides the structure and knowledge to dovetail these two efforts.
